@@ -27,9 +27,10 @@ public class soufunBbsUrl {
 			}
 		} catch (Exception e) {
 			// TODO: handle exception
-		}
+		} 
 		
 			
+		System.out.println("1111111111111");
 	
 		}
 	
