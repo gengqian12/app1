@@ -30,7 +30,7 @@ public class soufunBbsUrl {
 		} 
 		
 			
-		System.out.println("1111111111111");
+		System.out.println("11111110000000000000000000111111");
 	
 		}
 	
